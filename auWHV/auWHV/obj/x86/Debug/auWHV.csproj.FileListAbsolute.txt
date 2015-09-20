@@ -10,3 +10,5 @@ E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\bin\Debug\auWHV.exe.manif
 E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\bin\Debug\auWHV.application
 E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Debug\auWHV.exe.manifest
 E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Debug\auWHV.application
+\\Mac\Home\sourcecode\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.exe
+\\Mac\Home\sourcecode\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.pdb
